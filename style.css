@@ -1,0 +1,15 @@
+.hover\:scale-105:hover {
+    transform: scale(1.05);
+  }
+  
+  .opacity-0 {
+    opacity: 0;
+  }
+  
+  .opacity-100 {
+    opacity: 1;
+  }
+  
+  .absolute {
+    position: absolute;
+  }
